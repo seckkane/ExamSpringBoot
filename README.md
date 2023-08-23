@@ -1,0 +1,5 @@
+![alt text](https://github.com/seckkane/ExamSpringBoot/blob/main/captures/Home.png?raw=true)
+![alt text](https://github.com/seckkane/ExamSpringBoot/blob/main/captures/DetailsDeclarant.png?raw=true)
+![alt text](https://github.com/seckkane/ExamSpringBoot/blob/main/captures/ListDeclarant.png?raw=true)
+![alt text](https://github.com/seckkane/ExamSpringBoot/blob/main/captures/Declaration.png?raw=true)
+![alt text](https://github.com/seckkane/ExamSpringBoot/blob/main/captures/ListDeclarant.png?raw=true)

@@ -1,0 +1,32 @@
+ <ul class="sidebar-nav" id="sidebar-nav">
+
+      <li class="nav-item">
+        <a class="nav-link " th:href="@{/}" >
+          <i class="bi bi-grid"></i>
+          <span>Tableau de bord</span>
+        </a>
+      </li><!-- End Dashboard Nav -->
+
+      <li class="nav-item">
+        <a class="nav-link collapsed" data-bs-target="#impots-nav" data-bs-toggle="collapse" href="#">
+          <i class="bi bi-truck-front"></i><span>Gestion des Impots</span><i class="bi bi-chevron-down ms-auto"></i>
+        </a>
+        <ul id="impots-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+          <li>
+            <a th:href="@{/declarant}">
+              <i class="bi bi-clipboard-data"></i><span>Declarant</span>
+            </a>
+          </li>
+          <li>
+            <a th:href="@{/declaration}">
+              <i class="bi bi-key"></i><span>Declaration</span>
+            </a>
+          </li>
+          <li>
+            <a th:href="@{/paiement}">
+              <i class="bi bi-arrows-move"></i><span>Paiement</span>
+            </a>
+          </li>
+        </ul>
+      </li><!-- End Impots Nav -->
+   </ul>
