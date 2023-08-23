@@ -4,7 +4,7 @@ Bienvenue dans l'application de gestion de déclarations et de paiements de déc
 
 ## Fonctionnalités Principales
 
-- **Déclarations :** Les déclarants peuvent soumettre leurs déclarations en remplissant un formulaire en ligne. Ils peuvent ajouter des détails sur chaque déclaration, comme la période fiscale, les revenus, etc.
+- **Déclarations :** Les déclarants peuvent soumettre leurs déclarations en remplissant un formulaire en ligne. Ils peuvent ajouter des détails sur chaque déclaration comme le montant, etc.
 
 - **Paiements :** Les déclarants peuvent effectuer des paiements en ligne pour les déclarations soumises. Les informations de paiement sont sécurisées et cryptées.
 
